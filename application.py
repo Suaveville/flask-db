@@ -32,4 +32,4 @@ def articles():
 # Con esto debugeamos
 if __name__ == '__main__':
     
-    application.run(debug=True)
+    application.run()
