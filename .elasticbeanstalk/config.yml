@@ -2,6 +2,8 @@ branch-defaults:
   default:
     environment: null
     group_suffix: null
+  master:
+    environment: null
 global:
   application_name: flask-test2
   branch: null
