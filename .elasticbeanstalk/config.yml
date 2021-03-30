@@ -1,5 +1,5 @@
 branch-defaults:
-  default:
+  master:
     environment: Flaskgefjon-env
     group_suffix: null
 global:
