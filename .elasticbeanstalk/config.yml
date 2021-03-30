@@ -1,9 +1,9 @@
 branch-defaults:
   default:
-    environment: null
+    environment: Flaskgefjon-env
     group_suffix: null
 global:
-  application_name: flask-test2
+  application_name: Flask-Gefjon
   branch: null
   default_ec2_keyname: null
   default_platform: Python 3.8
